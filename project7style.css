@@ -1,0 +1,37 @@
+	
+	#main-headline
+		{
+			color: blue;
+			text-align: center;
+		}
+		
+	h2 {
+	    text-align: center;
+	    }
+		
+	.place-description
+		{
+			font-family: Verdana;
+			color: olive;
+		}
+		
+	.person-description
+		{
+			color:purple;
+		}
+		
+	.top-favorite
+		{
+			font-weight:bold;
+			color: red;
+		}
+	
+	.important-point
+		{
+			text-decoration: underline;
+		}
+		
+	.emphasis
+		{
+			font-style:italic;
+		}
